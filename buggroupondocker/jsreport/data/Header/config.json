@@ -1,0 +1,18 @@
+{
+    "_id": "5c25ef6e65f8d6adad913755",
+    "shortid": "r1-3fcf4M",
+    "name": "Header",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "marginTop": "1cm",
+        "marginLeft": "1cm"
+    },
+    "workspaceVersion": 11,
+    "modificationDate": {
+        "$$date": 1550228457882
+    },
+    "workspaceShortid": "BkEHf9MNG",
+    "workspaceId": "5c25ef6e65f8d675ca913754",
+    "$entitySet": "templates"
+}

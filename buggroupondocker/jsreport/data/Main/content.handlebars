@@ -1,0 +1,7 @@
+{{#each items}}
+    {{#if @index}}
+        <div style='page-break-before: always;'></div>
+    {{/if}}
+    <h1>Hello from Page {{this}}</h1>
+    {{{pdfCreatePagesGroup this}}}
+{{/each}}

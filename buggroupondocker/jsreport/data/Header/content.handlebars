@@ -1,0 +1,12 @@
+{{dump $pdf.pages}}
+{{#each $pdf.pages}}
+  {{#if @index}}
+    <div style="page-break-before: always;"></div>
+  {{/if}}
+  <div> 
+  dynamic header with page value 
+  {{#with (lookup ../$pdf.pages @index)}}
+    {{group}}
+  {{/with}}
+  </div>
+{{/each}}

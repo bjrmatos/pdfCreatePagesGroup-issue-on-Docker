@@ -1,0 +1,12 @@
+{
+    "_id": "5c25ef6e65f8d65042913757",
+    "folder": null,
+    "shortid": "rkeRCDXZE",
+    "name": "data",
+    "workspaceId": "5c25ef6e65f8d675ca913754",
+    "creationDate": "2018-12-28T09:39:58.198Z",
+    "modificationDate": {
+        "$$date": 1550159800452
+    },
+    "$entitySet": "data"
+}
